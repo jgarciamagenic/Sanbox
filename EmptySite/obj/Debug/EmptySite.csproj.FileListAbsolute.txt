@@ -1,0 +1,6 @@
+C:\Work\Sanbox\EmptySite\bin\EmptySite.dll.config
+C:\Work\Sanbox\EmptySite\bin\EmptySite.dll
+C:\Work\Sanbox\EmptySite\bin\EmptySite.pdb
+C:\Work\Sanbox\EmptySite\obj\Debug\EmptySite.csprojResolveAssemblyReference.cache
+C:\Work\Sanbox\EmptySite\obj\Debug\EmptySite.dll
+C:\Work\Sanbox\EmptySite\obj\Debug\EmptySite.pdb

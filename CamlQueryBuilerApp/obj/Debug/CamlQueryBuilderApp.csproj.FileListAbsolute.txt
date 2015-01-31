@@ -1,0 +1,6 @@
+C:\Work\Sanbox\CamlQueryBuilerApp\bin\Debug\CamlQueryBuilderApp.exe.config
+C:\Work\Sanbox\CamlQueryBuilerApp\bin\Debug\CamlQueryBuilderApp.exe
+C:\Work\Sanbox\CamlQueryBuilerApp\bin\Debug\CamlQueryBuilderApp.pdb
+C:\Work\Sanbox\CamlQueryBuilerApp\obj\Debug\CamlQueryBuilderApp.exe
+C:\Work\Sanbox\CamlQueryBuilerApp\obj\Debug\CamlQueryBuilderApp.pdb
+C:\Work\Sanbox\CamlQueryBuilerApp\obj\Debug\CamlQueryBuilderApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<input type="button" value="Export" onclick="exportToCsv()" />
+
+<span id="spanResults"></span>
+
+@section scripts{
+
+    <script>
+
+        function exportCsv() {
+            window.location = "Export"
+        }
+
+        function exportToCsv() {
+            var myCsv = "Col1,Col2,Col3\nval1,val2,val3";
+
+            $.post("Export2", myCsv)
+             .always(function () {
+                 $("#spanResults").html("finished...");
+             });
+        }
+
+    </script>
+    
+}
+
