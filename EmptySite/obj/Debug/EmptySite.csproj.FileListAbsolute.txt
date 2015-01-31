@@ -4,3 +4,9 @@ C:\Work\Sanbox\EmptySite\bin\EmptySite.pdb
 C:\Work\Sanbox\EmptySite\obj\Debug\EmptySite.csprojResolveAssemblyReference.cache
 C:\Work\Sanbox\EmptySite\obj\Debug\EmptySite.dll
 C:\Work\Sanbox\EmptySite\obj\Debug\EmptySite.pdb
+C:\GitHub\Sanbox\EmptySite\bin\EmptySite.dll.config
+C:\GitHub\Sanbox\EmptySite\bin\EmptySite.dll
+C:\GitHub\Sanbox\EmptySite\bin\EmptySite.pdb
+C:\GitHub\Sanbox\EmptySite\obj\Debug\EmptySite.csprojResolveAssemblyReference.cache
+C:\GitHub\Sanbox\EmptySite\obj\Debug\EmptySite.dll
+C:\GitHub\Sanbox\EmptySite\obj\Debug\EmptySite.pdb
